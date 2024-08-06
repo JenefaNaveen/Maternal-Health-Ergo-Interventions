@@ -4,8 +4,9 @@
 This repository hosts the "Maternal Comfort and Well-being Survey Results" dataset, featuring 25,000 entries aimed at exploring the impact of ergonomic interventions on maternal health during pregnancy. It supports research for developing predictive models to enhance maternal comfort and well-being.
 
 **File Descriptions**
-- [Maternal_Comfort_Wellbeing_Survey_Results](URL-to-training-dataset)
-**Maternal_Comfort_Wellbeing_Survey_Results_25000.csv**: Contains comprehensive data including age, BMI, pregnancy stage, types of ergonomic intervention, and self-reported comfort and well-being levels.
+
+**Maternal_Comfort_Wellbeing_Survey_Results.csv**: - [Maternal_Comfort_Wellbeing_Survey_Results](URL-to-training-dataset)
+Contains comprehensive data including age, BMI, pregnancy stage, types of ergonomic intervention, and self-reported comfort and well-being levels.
 Usage
 This dataset is intended for academic researchers and healthcare professionals. It is particularly suited for developing and testing machine learning models focused on assessing and improving health interventions for pregnant women.
 

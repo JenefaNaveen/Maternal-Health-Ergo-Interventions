@@ -6,7 +6,7 @@ This repository hosts the "Maternal Comfort and Well-being Survey Results" datas
 ## File Descriptions
 
 ### Complete Dataset
-- **`Maternal_Comfort_Wellbeing_Survey_Results_25000.csv`**: Contains comprehensive data including age, BMI, pregnancy stage, types of ergonomic intervention, and self-reported comfort and well-being levels.
+- **`Maternal_Comfort_Wellbeing_Survey_Results.csv`**: Contains comprehensive data including age, BMI, pregnancy stage, types of ergonomic intervention, and self-reported comfort and well-being levels.
 
 ## Usage
 This dataset is intended for academic researchers and healthcare professionals. It is particularly suited for developing and testing machine learning models focused on assessing and improving health interventions for pregnant women.

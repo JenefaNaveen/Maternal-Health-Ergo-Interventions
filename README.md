@@ -23,3 +23,7 @@ Researchers and practitioners are encouraged to contribute to this dataset repos
 
 ## Citation
 If you use this dataset for your research, please include a citation with the following format:
+
+## Contact
+For further inquiries or detailed information, please contact Dr. A. Jenefa at jenefaa@karunya.edu.
+
